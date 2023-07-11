@@ -3,7 +3,7 @@
 ![github_cover_banner](https://media2.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e47wvrjv7ywl6kabrrxo4whae1v1nucdeqk2y7nascm&rid=giphy.gif&ct=g)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a passionate frontend developer. I love learning new web development frameworks and technologies based on Javascript.
+    Passionate and creative frontend developer with expertise in JavaScript, known for crafting engaging web and mobile app interfaces while constantly seeking opportunities to expand knowledge and skills.
 <br>
 <br>
 <div align="center">
